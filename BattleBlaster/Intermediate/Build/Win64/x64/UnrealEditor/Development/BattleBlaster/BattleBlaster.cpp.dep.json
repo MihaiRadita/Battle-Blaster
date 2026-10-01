@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\users\\mihai\\documents\\unreal projects\\battleblaster\\source\\battleblaster\\battleblaster.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\users\\mihai\\documents\\unreal projects\\battleblaster\\intermediate\\build\\win64\\x64\\battleblastereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "f:\\users\\mihai\\documents\\unreal projects\\battleblaster\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\battleblaster\\definitions.battleblaster.h",
+            "f:\\users\\mihai\\documents\\unreal projects\\battleblaster\\source\\battleblaster\\battleblaster.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

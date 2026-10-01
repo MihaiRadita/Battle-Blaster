@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/Users/mihai/Documents/Unreal Projects/BattleBlaster/Content/Maps/Level_1.umap",
+				"F:/Users/mihai/Documents/Unreal Projects/BattleBlaster/Content/Blueprints/BP_Tank.uasset",
+				"F:/Users/mihai/Documents/Unreal Projects/BattleBlaster/Content/Blueprints/BP_GameMode.uasset",
+				"F:/Users/mihai/Documents/Unreal Projects/BattleBlaster/Content/Input/IMC_Default.uasset",
+				"F:/Users/mihai/Documents/Unreal Projects/BattleBlaster/Content/Input/IA_Move.uasset",
+				"F:/Users/mihai/Documents/Unreal Projects/BattleBlaster/Content/Input/IA_Turn.uasset",
+				"F:/Users/mihai/Documents/Unreal Projects/BattleBlaster/Content/Blueprints/BP_Tower.uasset",
+				"F:/Users/mihai/Documents/Unreal Projects/BattleBlaster/Content/Input/IA_FIre.uasset",
+				"F:/Users/mihai/Documents/Unreal Projects/BattleBlaster/Content/Blueprints/BP_Projectile.uasset",
+				"F:/Users/mihai/Documents/Unreal Projects/BattleBlaster/Content/Blueprints/BP_BattleBlasterPlayerController.uasset",
+				"F:/Users/mihai/Documents/Unreal Projects/BattleBlaster/Content/Maps/Level_2.umap",
+				"F:/Users/mihai/Documents/Unreal Projects/BattleBlaster/Content/Maps/Level_3.umap",
+				"F:/Users/mihai/Documents/Unreal Projects/BattleBlaster/Content/Blueprints/BP_BattleBlasterGameInstance.uasset",
+				"F:/Users/mihai/Documents/Unreal Projects/BattleBlaster/Content/Blueprints/WBP_ScreenMessage.uasset",
+				"F:/Users/mihai/Documents/Unreal Projects/BattleBlaster/Content/Blueprints/BP_HitCameraShake.uasset",
+				"F:/Users/mihai/Documents/Unreal Projects/BattleBlaster/Content/Blueprints/BP_DeathCameraShake.uasset",
+				"F:/Users/mihai/Documents/Unreal Projects/BattleBlaster/Content/Blueprints/IA_Move.uasset"
+			]
+		}
+	]
+}
