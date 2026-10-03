@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\users\\mihai\\documents\\github\\battle-blaster\\battleblaster\\intermediate\\build\\win64\\unrealgame\\inc\\battleblaster\\uht\\battleblastergameinstance.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\users\\mihai\\documents\\github\\battle-blaster\\battleblaster\\intermediate\\build\\win64\\x64\\battleblaster\\shipping\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "f:\\users\\mihai\\documents\\github\\battle-blaster\\battleblaster\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\battleblaster\\definitions.battleblaster.h",
+            "f:\\users\\mihai\\documents\\github\\battle-blaster\\battleblaster\\source\\battleblaster\\battleblastergameinstance.h",
+            "f:\\users\\mihai\\documents\\github\\battle-blaster\\battleblaster\\intermediate\\build\\win64\\unrealgame\\inc\\battleblaster\\uht\\battleblastergameinstance.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

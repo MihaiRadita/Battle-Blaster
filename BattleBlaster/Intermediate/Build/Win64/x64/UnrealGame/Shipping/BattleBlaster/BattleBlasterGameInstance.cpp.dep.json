@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\users\\mihai\\documents\\github\\battle-blaster\\battleblaster\\source\\battleblaster\\battleblastergameinstance.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\users\\mihai\\documents\\github\\battle-blaster\\battleblaster\\intermediate\\build\\win64\\x64\\battleblaster\\shipping\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "f:\\users\\mihai\\documents\\github\\battle-blaster\\battleblaster\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\battleblaster\\definitions.battleblaster.h",
+            "f:\\users\\mihai\\documents\\github\\battle-blaster\\battleblaster\\source\\battleblaster\\battleblastergameinstance.h",
+            "f:\\users\\mihai\\documents\\github\\battle-blaster\\battleblaster\\intermediate\\build\\win64\\unrealgame\\inc\\battleblaster\\uht\\battleblastergameinstance.generated.h",
+            "d:\\program files\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "d:\\program files\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "d:\\program files\\ue_5.6\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\program files\\ue_5.6\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\program files\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "d:\\program files\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "d:\\program files\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "d:\\program files\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "d:\\program files\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "d:\\program files\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\gameplaystatics.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
